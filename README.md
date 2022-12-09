@@ -1,7 +1,7 @@
 <!-- Name & sticker gif -->
 <h1 align="center">
 Hi, I'm Mahmoud!
-<img align="middle" src="https://media.giphy.com/media/njON3jEmTYHEfRbfsk/giphy.gif" width="100">
+<img align="middle" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100">
 </h1>
 
 <!-- Typing SVG -->
