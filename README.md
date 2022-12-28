@@ -36,7 +36,7 @@ Hi, I'm Mahmoud!
 
 ## 🧠 I'm currently learning Backend Development with Go
 
-## ⚡️ Fun fact I'm a 3 pointer
+## ⚡️ Fun fact I'm a Vimmer
 
 # 💎 My favorite tools
 
