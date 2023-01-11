@@ -32,13 +32,13 @@ Hi, I'm Mahmoud!
 
 # 🚀 About me
 
-## 👨‍💻 I'm currently working on A Marketplace Project
+## 👨‍💻 I'm currently working on A Marketplace Project.
 
-## 🧠 I'm currently learning Backend Development with Go
+## 🧠 I'm currently learning MERN Stack.
 
-## ⚡️ Fun fact I'm a Vimmer
+## ⚡️ Fun fact I'm a Vimmer.
 
-# 💎 My favorite tools
+# 💎 My favorite tools 
 
 ## 👨‍💻 Programming and markup languages
 
